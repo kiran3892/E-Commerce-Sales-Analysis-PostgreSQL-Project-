@@ -107,3 +107,6 @@ The project is designed to demonstrate strong practical SQL expertise and the ab
 - Identify slow-moving items (low yearly sales).
 - Identify fast-moving items (high yearly sales).
 - Provide business recommendations based on price, reviews, and sales.
+  
+# Clone the repo
+git clone https://github.com/yourusername/ecommerce-sales-analysis
