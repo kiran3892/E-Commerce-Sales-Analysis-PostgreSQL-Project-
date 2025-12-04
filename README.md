@@ -7,7 +7,7 @@ The project is designed to demonstrate strong practical SQL expertise and the ab
 
 # 🗂️ **Dataset Description**
 
-The dataset contains the following columns:
+# The dataset contains the following columns:
 
 - `product_id` — Unique product identifier  
 - `product_name` — Name of the product  
@@ -16,6 +16,7 @@ The dataset contains the following columns:
 - `review_score` — Rating (1–5 scale)  
 - `review_count` — Number of reviews  
 - `sales_month_1` to `sales_month_12` — Monthly unit sales  
+
 # 🛠️ **Technologies Used**
 
 - **SQL (PostgreSQL)**  
@@ -25,7 +26,7 @@ The dataset contains the following columns:
 - **CTEs** for clean analysis  
 - **Correlation (CORR)** for statistical relationships
 
-# ✅ SQL QUESTIONS FOR YOUR DATASET
+# ✅ SQL QUESTIONS FOR DATASET
 
 # 🟦 SECTION 1: BASIC QUESTIONS
 - Show the first 10 rows of the products table.
@@ -37,7 +38,7 @@ The dataset contains the following columns:
 - What is the average review score across all products?
 - Find products with 0 review_count.
 
-#🟩 SECTION 2: SALES ANALYSIS QUESTIONS
+# 🟩 SECTION 2: SALES ANALYSIS QUESTIONS
 - Calculate total yearly sales for each product (sum of 12 months).
 - Which products have the highest total yearly sales?
 - Calculate total sales for each product category.
@@ -97,7 +98,7 @@ The dataset contains the following columns:
 - Identify products with low reviews but high sales (quality issue indicator).
 - What is the relationship between price and yearly revenue?
 
-# 🟩 SECTION 9: FINAL PROJECT QUESTIONS (INTERVIEW LEVEL)
+# 🟩 SECTION 9: FINAL PROJECT QUESTIONS 
 - Generate a complete performance summary for each product (price, reviews, sales).
 - Generate a category performance dashboard using SQL.
 - Identify the top 3 products contributing to 80% of category revenue (Pareto).
