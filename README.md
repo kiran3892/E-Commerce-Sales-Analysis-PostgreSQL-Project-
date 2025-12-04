@@ -109,4 +109,4 @@ The project is designed to demonstrate strong practical SQL expertise and the ab
 - Provide business recommendations based on price, reviews, and sales.
   
 # Clone the repo
-git clone https://github.com/yourusername/ecommerce-sales-analysis
+git clone (https://github.com/kiran3892/E-Commerce-Sales-Analysis-PostgreSQL-Project-)
