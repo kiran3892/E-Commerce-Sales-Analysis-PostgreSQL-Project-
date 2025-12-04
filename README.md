@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="GitHub Logo" src="https://github.com/user-attachments/assets/41ea74d6-8386-423e-9b9c-54815bd69e83" />
+
 # E-Commerce-Sales-Analysis-PostgreSQL-Project-
 This project focuses on analyzing a comprehensive E-Commerce Sales dataset. Using advanced SQL techniques, the project uncovers key business insights such as monthly revenue trends, top-performing products, category-wise performance, customer popularity through review metrics, and product profitability.
 
